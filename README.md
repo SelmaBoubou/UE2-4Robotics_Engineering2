@@ -35,7 +35,7 @@ We initiated a different methof by which we first used the the 2D Post estimate 
 
 ## Authors
 
-#Meldrick Reimmer And Selma Boudisssa.
+Meldrick Reimmer And Selma Boudisssa.
 
 
 ## Project Supervisors
