@@ -16,8 +16,9 @@ These instructions below will get you a copy of the project and the necessary do
  1.Basic Motion Control(Twist) : https://www.youtube.com/watch?v=aXN8vrgKaVU
  2.Advanced Motion Comtrol(Odometry+ Twist) : https://www.youtube.com/watch?v=bmieAum3SIY
  3.Navigating a Sqaure using ( Odometry + Twist): https://www.youtube.com/watch?v=nubviqXMenI
- 4.Gmapping + TeleOperation : https://www.youtube.com/watch?v=GcMuJutT3g0
- 5.Navigation using  RViz Tools: https://www.youtube.com/watch?v=IE1HGP_NTLA 
+ 4.Navagtion with Path Planning: https://www.youtube.com/watch?v=XnruzcV3kQw&feature=youtu.be
+ 5.Gmapping + TeleOperation : https://www.youtube.com/watch?v=GcMuJutT3g0
+ 6.Navigation using  RViz Tools: https://www.youtube.com/watch?v=IE1HGP_NTLA 
 
 *PhantomX Robot Arm
 1.Read Technical Survey Report on our reposoritory.
