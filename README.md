@@ -35,11 +35,11 @@ We initiated a different methof by which we first used the the 2D Post estimate 
 
 ## Authors
 
-*Meldrick Reimmer And Selma Boudisssa.
+#Meldrick Reimmer And Selma Boudisssa.
 
 
 ## Project Supervisors
-Ralph Seulin, Jiang Canser and Raphael Duverne.
+Ralph Seulin, Jiang Cansen and Raphael Duverne.
 
 ## Acknowledgments
 Staff and members of the Robotics Laboratory , Our Classmates and our cherised ones. 
